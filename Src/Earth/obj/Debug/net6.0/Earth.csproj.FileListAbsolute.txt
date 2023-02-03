@@ -1,0 +1,17 @@
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.csproj.AssemblyReference.cache
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.GeneratedMSBuildEditorConfig.editorconfig
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.AssemblyInfoInputs.cache
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.AssemblyInfo.cs
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.csproj.CoreCompileInputs.cache
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\bin\Debug\net6.0\Earth.exe
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\bin\Debug\net6.0\Earth.deps.json
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\bin\Debug\net6.0\Earth.runtimeconfig.json
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\bin\Debug\net6.0\Earth.dll
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\bin\Debug\net6.0\Earth.pdb
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.csproj.CopyComplete
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.dll
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\refint\Earth.dll
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.pdb
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\Earth.genruntimeconfig.cache
+D:\soheyl\Git\GitProject\RabbitMq\Src\Earth\obj\Debug\net6.0\ref\Earth.dll

@@ -1,0 +1,17 @@
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.csproj.AssemblyReference.cache
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.GeneratedMSBuildEditorConfig.editorconfig
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.AssemblyInfoInputs.cache
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.AssemblyInfo.cs
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.csproj.CoreCompileInputs.cache
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\bin\Debug\net6.0\Moon.exe
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\bin\Debug\net6.0\Moon.deps.json
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\bin\Debug\net6.0\Moon.runtimeconfig.json
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\bin\Debug\net6.0\Moon.dll
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\bin\Debug\net6.0\Moon.pdb
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.csproj.CopyComplete
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.dll
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\refint\Moon.dll
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.pdb
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\Moon.genruntimeconfig.cache
+D:\soheyl\Git\GitProject\RabbitMq\Src\Moon\obj\Debug\net6.0\ref\Moon.dll

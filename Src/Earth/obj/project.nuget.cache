@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAWkqVQNJOQO0RiZ/x7lh5J1K9mUGLJ+kkaL8hNosG86hzRrqWGkEBr0GO/gIZMHEBmwHlOr9OLFTMHbtIbpww==",
+  "success": true,
+  "projectFilePath": "D:\\soheyl\\Git\\GitProject\\RabbitMq\\Src\\Earth\\Earth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSoheil\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
